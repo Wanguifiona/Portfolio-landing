@@ -1,8 +1,13 @@
 .img-rescale {
   width: 200px;
-  height: auto
+  height: auto;
 }
+
 .name {
   font-style:  italic;
-  color: pink
+  color: pink;
+}
+
+.mt15 {
+  margin-top: 15px;
 }
