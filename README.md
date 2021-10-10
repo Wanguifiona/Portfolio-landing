@@ -2,18 +2,18 @@
 
 A webpage that details information about Fiona Maina. You can learn more about her interests and hobbies, career paths, school and what she like
 
-##Technologies used
+## Technologies used
 
 *HTML and CSS (Bootstrap)
 
 
-#####Setup instructions and installation
+##### Setup instructions and installation
 
 *Clone this repository to a location in your file system "https://github.com/Wanguifiona/Portfolio-landing.git"
 *Open terminal command line then navigate to the root folder of the application. cd portfolio-landing
 *Open index.html on your Browser
 
-##Development
+## Development
 
 Want to contribute? Great
 To fix a bug or enhance an existing module, follow these steps:
@@ -31,7 +31,7 @@ If you find a bug the website couldn't handle the query and or gave undesired re
 
 If you'd like to request a new function, feel free to do so by opening an issue here. Please include sample queries and their corresponding results.
 
-###License
+### License
 
 *MIT*
 Copyright © 2021 *Fiona Maina*
