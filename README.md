@@ -4,7 +4,7 @@ A webpage that details information about Fiona Maina. You can learn more about h
 
 Written by Fiona Maina
 
-[![Fiona.png](https://i.postimg.cc/5yVHGfTX/Whats-App-Image-2021-10-11-at-7-23-55-PM.jpg)](https://postimg.cc/sQTDGCVz)
+[![Portfolio-landing.png](https://i.postimg.cc/5yVHGfTX/Whats-App-Image-2021-10-11-at-7-23-55-PM.jpg)](https://postimg.cc/sQTDGCVz)
 
 ## Technologies used
 
