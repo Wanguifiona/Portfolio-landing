@@ -6,14 +6,14 @@ Written by Fiona Maina
 
 ## Technologies used
 
-*HTML and CSS (Bootstrap)
+* HTML and CSS (Bootstrap)
 
 
 ##### Setup instructions and installation
 
-*Clone this repository to a location in your file system  "https://github.com/Wanguifiona/Portfolio-landing.git"
-*Open terminal command line then navigate to the root folder of the application. cd portfolio-landing
-*Open index.html on your Browser
+* Clone this repository to a location in your file system  "https://github.com/Wanguifiona/Portfolio-landing.git"
+* Open terminal command line then navigate to the root folder of the application. cd portfolio-landing
+* Open index.html on your Browser
 
 ## Development
 
