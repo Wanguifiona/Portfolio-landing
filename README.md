@@ -1,6 +1,8 @@
 # portfolio-landing
 
-A webpage that details information about Fiona Maina. You can learn more about her interests and hobbies, career paths, school and what she like
+A webpage that details information about Fiona Maina. You can learn more about her interests and hobbies, career paths, school and what she likes.
+
+Written by Fiona Maina
 
 ## Technologies used
 
@@ -9,7 +11,7 @@ A webpage that details information about Fiona Maina. You can learn more about h
 
 ##### Setup instructions and installation
 
-*Clone this repository to a location in your file system "https://github.com/Wanguifiona/Portfolio-landing.git"
+*Clone this repository to a location in your file system  "https://github.com/Wanguifiona/Portfolio-landing.git"
 *Open terminal command line then navigate to the root folder of the application. cd portfolio-landing
 *Open index.html on your Browser
 
@@ -35,6 +37,7 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 *MIT*
 Copyright © 2021 *Fiona Maina*
+
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute,sublicense,and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
